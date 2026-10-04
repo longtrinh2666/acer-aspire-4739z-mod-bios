@@ -240,13 +240,13 @@ Offset:		Instruction:
 0x19A886 Form Set:  {0E 24 F4 27 4A A0 00 DF 42 4D B5 52 39 51 13 02 11 3D 47 00 33 00 00 00 00 00 00 00 00 00 01 00 00 00 20 03}
 0x19A8AA 	Form: , Form ID: 0x1 {01 06 01 00 47 00}
 0x19A8B0 		Suppress If: {0A 03 00}
-0x19A8B3 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19A8B3 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19A8C4 			Grayout If: {19 03 00}
 0x19A8C7 			Variable 0x1 equals 0x1 {22 06 01 00 01 00}
 0x19A8CD 				Text:  {03 0B 33 00 32 00 02 00 00 00 00}
 0x19A8D8 			End If0x19A8D8 		End If {18 02}
 0x19A8DA 		Suppress If: {0A 03 00}
-0x19A8DD 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19A8DD 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19A8EE 			Grayout If: {19 03 00}
 0x19A8F1 			Variable 0x1 equals 0x1 {22 06 01 00 01 00}
 0x19A8F7 				Text:  {03 0B 33 00 48 00 27 00 00 00 00}
@@ -254,13 +254,13 @@ Offset:		Instruction:
 0x19A90D 				Text:  {03 0B 33 00 4B 00 2A 00 00 00 00}
 0x19A918 			End If0x19A918 		End If {18 02}
 0x19A91A 		Suppress If: {0A 03 00}
-0x19A91D 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19A91D 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19A92E 			Grayout If: {19 03 00}
 0x19A931 			Variable 0x1 equals 0x1 {22 06 01 00 01 00}
 0x19A937 				Text:  {03 0B 33 00 4C 00 2B 00 00 00 00}
 0x19A942 			End If0x19A942 		End If {18 02}
 0x19A944 		Suppress If: {0A 03 00}
-0x19A947 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19A947 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19A958 			Grayout If: {19 03 00}
 0x19A95B 			Variable 0x1 equals 0x1 {22 06 01 00 01 00}
 0x19A961 				Text:  {03 0B 33 00 4D 00 2C 00 00 00 00}
@@ -341,7 +341,7 @@ Offset:		Instruction:
 0x19ACEA 	Form: , Form ID: 0x1 {01 06 01 00 DE 02}
 0x19ACF0 		Subtitle:  {02 04 33 00}
 0x19ACF4 		Suppress If: {0A 03 00}
-0x19ACF7 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19ACF7 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19AD08 			Grayout If: {19 03 00}
 0x19AD0B 			Variable 0x85[1] equals value in list (0x2, 0x3) {14 0B 85 00 01 02 00 02 00 03 00}
 0x19AD16 			Variable 0x86[1] equals 0x1 {12 07 86 00 01 01 00}
@@ -715,7 +715,7 @@ Offset:		Instruction:
 0x19B62A 	Form: , Form ID: 0x1 {01 06 01 00 5E 00}
 0x19B630 		Subtitle:  {02 04 33 00}
 0x19B634 		Suppress If: {0A 03 00}
-0x19B637 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19B637 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19B648 			Selectable: , Form ID: 0x21 {0F 0B 21 00 60 00 61 00 00 00 00}
 0x19B653 			Selectable: , Form ID: 0x22 {0F 0B 22 00 62 00 63 00 00 00 00}
 0x19B65E 			Selectable: , Form ID: 0x23 {0F 0B 23 00 64 00 65 00 00 00 00}
@@ -735,7 +735,7 @@ Offset:		Instruction:
 0x19B6D0 			End of Options {10 02}
 0x19B6D2 		End If {18 02}
 0x19B6D4 		Suppress If: {0A 03 00}
-0x19B6D7 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19B6D7 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19B6E8 			Selectable: , Form ID: 0x30 {0F 0B 30 00 DB 01 DC 01 00 00 00}
 0x19B6F3 		End If {18 02}
 0x19B6F5 		Grayout If: {19 03 00}
