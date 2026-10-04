@@ -267,7 +267,7 @@ Offset:		Instruction:
 0x19A96C 				Label: 0x1007 {1D 04 07 10}
 0x19A970 			End If0x19A970 		End If {18 02}
 0x19A972 		Suppress If: {0A 03 00}
-0x19A975 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19A975 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19A986 			Grayout If: {19 03 00}
 0x19A989 			Variable 0x85[1] equals 0x2 {12 07 85 00 01 02 00}
 0x19A990 			Variable 0x86[1] equals 0x1 {12 07 86 00 01 01 00}
@@ -658,7 +658,7 @@ Offset:		Instruction:
 0x19B4CB 		End If {18 02}
 0x19B4CD 		Suppress If: {0A 03 00}
 0x19B4D0 		Variable 0xAE[1] equals 0x0 {12 07 AE 00 01 00 00}
-0x19B4D7 		Variable 0x85[1] equals value in list (0x0, 0x1, 0x2, 0x3, 0x4) {14 11 85 00 01 05 00 00 00 01 00 02 00 03 00 04 00}
+0x19B4D7 		Variable 0x85[1] equals value in list (0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF, 0xFFFF) {14 11 85 00 01 05 00 FF FF FF FF FF FF FF FF FF FF}
 0x19B4E8 		Or {16 02}
 0x19B4EA 			Text:  {03 0B 33 00 59 02 33 00 04 39 00}
 0x19B4F5 		End If {18 02}
